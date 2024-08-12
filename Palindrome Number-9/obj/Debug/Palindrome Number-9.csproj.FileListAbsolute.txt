@@ -1,0 +1,7 @@
+D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\Palindrome Number-9\bin\Debug\Palindrome Number-9.exe.config
+D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\Palindrome Number-9\bin\Debug\Palindrome Number-9.exe
+D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\Palindrome Number-9\bin\Debug\Palindrome Number-9.pdb
+D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\Palindrome Number-9\obj\Debug\Palindrome Number-9.csproj.AssemblyReference.cache
+D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\Palindrome Number-9\obj\Debug\Palindrome Number-9.csproj.CoreCompileInputs.cache
+D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\Palindrome Number-9\obj\Debug\Palindrome Number-9.exe
+D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\Palindrome Number-9\obj\Debug\Palindrome Number-9.pdb

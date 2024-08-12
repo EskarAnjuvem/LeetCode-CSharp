@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Computer Science\\Scripts\\LeetCode\\LeetCodeProblems\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABE4CE79-71E6-4D95-90A4-C19D1224A5E9}|Missing Number268\\Missing Number268.csproj|d:\\computer science\\scripts\\leetcode\\leetcodeproblems\\missing number268\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABE4CE79-71E6-4D95-90A4-C19D1224A5E9}|Missing Number268\\Missing Number268.csproj|solutionrelative:missing number268\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8E511AC-4380-4117-AE97-99D0CDD0506B}|ValidBoomerang1037\\ValidBoomerang1037.csproj|d:\\computer science\\scripts\\leetcode\\leetcodeproblems\\validboomerang1037\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8E511AC-4380-4117-AE97-99D0CDD0506B}|ValidBoomerang1037\\ValidBoomerang1037.csproj|solutionrelative:validboomerang1037\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843AD188-FCEA-49B7-91D3-8016D484BE72}|Palindrome Number-9.1\\Palindrome Number-9.1.csproj|D:\\Computer Science\\Scripts\\LeetCode\\LeetCodeProblems\\palindrome number-9.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843AD188-FCEA-49B7-91D3-8016D484BE72}|Palindrome Number-9.1\\Palindrome Number-9.1.csproj|solutionrelative:palindrome number-9.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00828D0E-E3D9-42A6-8F77-3B543EAA7641}|Palindrome Number-9\\Palindrome Number-9.csproj|D:\\Computer Science\\Scripts\\LeetCode\\LeetCodeProblems\\palindrome number-9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00828D0E-E3D9-42A6-8F77-3B543EAA7641}|Palindrome Number-9\\Palindrome Number-9.csproj|solutionrelative:palindrome number-9\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Computer Science\\Scripts\\LeetCode\\LeetCodeProblems\\Missing Number268\\Program.cs",
+              "RelativeDocumentMoniker": "Missing Number268\\Program.cs",
+              "ToolTip": "D:\\Computer Science\\Scripts\\LeetCode\\LeetCodeProblems\\Missing Number268\\Program.cs",
+              "RelativeToolTip": "Missing Number268\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAowB4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T02:42:54.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Computer Science\\Scripts\\LeetCode\\LeetCodeProblems\\ValidBoomerang1037\\Program.cs",
+              "RelativeDocumentMoniker": "ValidBoomerang1037\\Program.cs",
+              "ToolTip": "D:\\Computer Science\\Scripts\\LeetCode\\LeetCodeProblems\\ValidBoomerang1037\\Program.cs",
+              "RelativeToolTip": "ValidBoomerang1037\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:10:22.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Computer Science\\Scripts\\LeetCode\\LeetCodeProblems\\Palindrome Number-9.1\\Program.cs",
+              "RelativeDocumentMoniker": "Palindrome Number-9.1\\Program.cs",
+              "ToolTip": "D:\\Computer Science\\Scripts\\LeetCode\\LeetCodeProblems\\Palindrome Number-9.1\\Program.cs",
+              "RelativeToolTip": "Palindrome Number-9.1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T03:22:14.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Computer Science\\Scripts\\LeetCode\\LeetCodeProblems\\Palindrome Number-9\\Program.cs",
+              "RelativeDocumentMoniker": "Palindrome Number-9\\Program.cs",
+              "ToolTip": "D:\\Computer Science\\Scripts\\LeetCode\\LeetCodeProblems\\Palindrome Number-9\\Program.cs",
+              "RelativeToolTip": "Palindrome Number-9\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T14:24:39.362Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
