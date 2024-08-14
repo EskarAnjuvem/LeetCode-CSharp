@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValidBoomerang1037", "Valid
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Missing Number268", "Missing Number268\Missing Number268.csproj", "{ABE4CE79-71E6-4D95-90A4-C19D1224A5E9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoSum-1", "TwoSum-1\TwoSum-1.csproj", "{D0DB296C-DE9E-4B8B-9C99-48CC2E63D44D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{ABE4CE79-71E6-4D95-90A4-C19D1224A5E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABE4CE79-71E6-4D95-90A4-C19D1224A5E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABE4CE79-71E6-4D95-90A4-C19D1224A5E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0DB296C-DE9E-4B8B-9C99-48CC2E63D44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0DB296C-DE9E-4B8B-9C99-48CC2E63D44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0DB296C-DE9E-4B8B-9C99-48CC2E63D44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0DB296C-DE9E-4B8B-9C99-48CC2E63D44D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
