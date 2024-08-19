@@ -1,7 +1,0 @@
-D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\TwoSum-1\bin\Debug\TwoSum-1.exe.config
-D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\TwoSum-1\bin\Debug\TwoSum-1.exe
-D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\TwoSum-1\bin\Debug\TwoSum-1.pdb
-D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\TwoSum-1\obj\Debug\TwoSum-1.csproj.AssemblyReference.cache
-D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\TwoSum-1\obj\Debug\TwoSum-1.csproj.CoreCompileInputs.cache
-D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\TwoSum-1\obj\Debug\TwoSum-1.exe
-D:\Computer Science\Scripts\LeetCode\LeetCodeProblems\TwoSum-1\obj\Debug\TwoSum-1.pdb
